@@ -1,7 +1,7 @@
 # design
 <h3><i>elements &amp; philosophies</h3></i>
 
-Most of my ideas and philosophies on digital design can be found in these aesome articles:
+Most of my ideas and philosophies on digital design can be found in these awesome articles:
 - digital/natural
 - digital expressionism
 - dense imagery
@@ -9,11 +9,14 @@ Most of my ideas and philosophies on digital design can be found in these aesome
 
 I just wanted to some up some other ideas more closely related to tech development and web design.
 
-<img src="newrembrant.jpg" style="width:300px;">
+<img src="newrembrant2.jpg" style="width:800px;">
+<h3><i>digital expressionism</i></h3>
 
 
-design that breathes
 
 <img src="orderbook.gif" style="width:600px;">
+<h3><i>design that breathes</i></h3>
 
-design that inspires
+
+
+<h3><i>design that inspires</i></h3>
