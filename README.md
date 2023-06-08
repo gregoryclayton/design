@@ -3,11 +3,11 @@
 
 Most of my ideas and philosophies on digital design can be found in these awesome articles:<br>
 - <a href="https://density.substack.com/p/digitalnatural"> digital/natural</a>
+-  <a href="https://density.substack.com/p/dense-imagery"> dense imagery</a>
 -  <a href="https://density.substack.com/p/digital-expressionism"> digital expressionism</a>
--  <a href="https://density.substack.com/p/dense-imagery"> digital expressionism</a>
--  <a href="https://density.substack.com/p/dense-imagery"> the hierarchy of digital art</a>
+-  <a href="https://density.substack.com/p/the-hierarchy-of-digital-art"> the hierarchy of digital art</a>
 
-but I just wanted to sum up some other ideas more closely related to tech development and web design.
+but I just wanted to sum up some other ideas more closely related to game development and web design.
 
 <img src="newrembrant2.jpg" style="width:800px;">
 <h3><i>digital expressionism</i></h3>
@@ -29,6 +29,13 @@ The order book of any typical crypto exchange app is a great example. The buys a
 back and forth, moving markets regardless of the indiidual, its got a mind of its own, and a breathe too.<br><br>
 A more classic example of design that breathes is the resting animation of Commander Keen<br>
 compared to that of Mario's 8-bit iteration.
+
+<img src="mario.png">
+<img src="keen.gif" style="display:in-line block; position:absolute; float:left;">
+
+Mario sits staic while Keen is active and dynamic even when you're not around. <br>
+This simple animation gives the world a feeling like it exists beyond our interaction with it.<br>
+Later iterations of Mario added resting animaitons, so nintendo seems to agree.
 
 
 
