@@ -1,7 +1,7 @@
 # design
 <h3><i>elements &amp; philosophies</h3></i>
 
-Most of my ideas and philosophies on digital design can be found in these awesome articles:<br>
+Most of my ideas on digital design can be found in these awesome articles:<br>
 - <a href="https://density.substack.com/p/digitalnatural"> digital/natural</a>
 -  <a href="https://density.substack.com/p/dense-imagery"> dense imagery</a>
 -  <a href="https://density.substack.com/p/digital-expressionism"> digital expressionism</a>
