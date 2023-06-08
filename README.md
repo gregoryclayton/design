@@ -24,6 +24,12 @@ and really seperates the tourists from the natives of the digital landscape.
 <img src="orderbook.gif" style="width:600px;">
 <h3><i>design that breathes</i></h3>
 
+Everything breathes. Injcting this breathe into design is an organic way to bring it to life.<br>
+The order book of any typical crypto exchange app is a great example. The buys and sells cascade<br>
+back and forth, moving markets regardless of the indiidual, its got a mind of its own, and a breathe too.<br><br>
+A more classic example of design that breathes is the resting animation of Commander Keen<br>
+compared to that of Mario's 8-bit iteration.
+
 
 
 <h3><i>design that inspires</i></h3>
