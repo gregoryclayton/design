@@ -7,7 +7,7 @@ Most of my ideas on digital design can be found in these awesome articles:<br>
 -  <a href="https://density.substack.com/p/digital-expressionism"> digital expressionism</a>
 -  <a href="https://density.substack.com/p/the-hierarchy-of-digital-art"> the hierarchy of digital art</a>
 
-but I just wanted to sum up some other ideas more closely related to game development and web design.
+but I just wanted to sum up some other ideas more closely related to web design and game development.
 
 <img src="newrembrant2.jpg" style="width:800px;">
 <h3><i>digital expressionism</i></h3>
@@ -33,7 +33,7 @@ compared to that of Mario's 8-bit iteration.
 <img src="mario.png">
 <img src="keen.gif" style="display:in-line block; position:absolute; float:left;">
 
-Mario sits staic while Keen is active and dynamic even when you're not around. <br>
+Mario sits static while Keen is active and dynamic even when you're not around. <br>
 This simple animation gives the world a feeling like it exists beyond our interaction with it.<br>
 Later iterations of Mario added resting animaitons, so nintendo seems to agree.
 
