@@ -42,11 +42,11 @@ Later iterations of Mario added resting animaitons, so nintendo seems to agree.
 <h3><i>design that inspires</i></h3>
 
 Meta's mission statement is about connecting users and bringing people together. Their products<br>
-and services are very unobstructive in their design. THey stay pout of your way, their subtle, they<br>
-let the users content shine. The minimal design there is inspires users to create their own content, <br>
-at least in theory. Good design should always have this aim of inspiring in mind, in my humble opinion.<br>
+and services are very unobstructive in their design because of this. They stay out of your way, their subtle, they<br>
+let the user's content shine. The minimal design there is inspires users to create their own content, <br>
+at least in theory. Good design should always have this aim of inspiring new creation in mind, in my humble opinion.<br>
 
-On the flip side, design can be bold and in your faace and be equally inspiring to the user's own creation.<br>
+On the flip side, design can be bold and in your faace and be equally inspiring to the user's own creative endeavors.<br>
 The vista's of nintendo's Breathe Of The Wild come to mind. Every design detail crafted with love with a bold<br>
 style that's in your face all the time, in a good way. I'd live in Hyrule if I could.
 
