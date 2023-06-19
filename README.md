@@ -35,7 +35,7 @@ compared to that of Mario's 8-bit iteration.
 
 Mario sits static while Keen is active and dynamic even when you're not around. <br>
 This simple animation gives the world a feeling like it exists beyond our interaction with it.<br>
-Later iterations of Mario added resting animaitons, so nintendo seems to agree.
+Later iterations of Mario added resting animations, so nintendo seems to agree.<br>
 
 
 
@@ -47,7 +47,7 @@ let the user's content shine. The minimal design there is inspires users to crea
 at least in theory. Good design should always have this aim of inspiring new creation in mind, in my humble opinion.<br>
 
 On the flip side, design can be bold and in your faace and be equally inspiring to the user's own creative endeavors.<br>
-The vista's of nintendo's Breathe Of The Wild come to mind. Every design detail crafted with love with a bold<br>
+The vista's of nintendo's Breath Of The Wild come to mind. Every design detail crafted with love with a bold<br>
 style that's in your face all the time, in a good way. I'd live in Hyrule if I could.
 
 <img src="zelda.jpg">
