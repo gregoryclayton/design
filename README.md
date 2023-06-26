@@ -13,7 +13,7 @@ but I just wanted to sum up some other ideas more closely related to web design 
 <h3><i>digital expressionism</i></h3>
 Stochastic elements in digital art are excellent expressive elements that most designers <br>
 avoid out of habit. Data compression artifacts, dropped frames, reverbed sound, these are<br>
-cardinal sins in the professional environment, but should be embraced by digital artists regardless.<br><br>
+cardinal sins in the professional environment, but I think they should be embraced by digital artists regardless.<br><br>
 
 Implementing stochastic elements into web design is tricky because the form of programming<br>
 neccessetates precision. Its not impossible though, in fact, it's probably one of <br>the keys to the universe,
