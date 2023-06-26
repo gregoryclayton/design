@@ -6,6 +6,7 @@ Most of my ideas on digital design can be found in these awesome articles:<br>
 -  <a href="https://density.substack.com/p/dense-imagery"> dense imagery</a>
 -  <a href="https://density.substack.com/p/digital-expressionism"> digital expressionism</a>
 -  <a href="https://density.substack.com/p/the-hierarchy-of-digital-art"> the hierarchy of digital art</a>
+-  <a href="https://density.substack.com/p/the-rounding-of-the-web"> the rounding of the web</a>
 
 but I just wanted to sum up some other ideas more closely related to web design and game development.
 
